@@ -1,0 +1,506 @@
+[ 2019-02-21 23:38:40 ] full archive url = http://www.validcreditcardnumber.com
+[ 2019-02-21 23:38:40 ] archive url = http://www.validcreditcardnumber.com
+[ 2019-02-21 23:38:40 ] website url = www.validcreditcardnumber.com
+[ 2019-02-21 23:38:40 ] no www url = validcreditcardnumber.com
+[ 2019-02-21 23:38:40 ] main_domain = validcreditcardnumber.com
+[ 2019-02-21 23:38:40 ] subdomain = www
+[ 2019-02-21 23:38:40 ] type( demo or live ) = live
+[ 2019-02-21 23:38:40 ] max_level = 5
+[ 2019-02-21 23:38:40 ] main folder = validcreditcardnumber.com_karimnagdinagdi_gmail.com_qvwv6azbkqt
+[ 2019-02-21 23:38:40 ] email = karimnagdinagdi@gmail.com
+[ 2019-02-21 23:38:40 ] scaping_type = all
+[ 2019-02-21 23:38:40 ] file_path_index = 
+[ 2019-02-21 23:38:40 ] file_path_without_ext_index = 
+[ 2019-02-21 23:38:40 ] #####################################################################################################
+[ 2019-02-21 23:38:40 ] ###############http://www.validcreditcardnumber.com ( Scraping  of 1 / 0 )  - 1 error pages fixed###############
+[ 2019-02-21 23:38:40 ] ###############Local URL = files/live/validcreditcardnumber.com_karimnagdinagdi_gmail.com_qvwv6azbkqt/index.html (code = 200) ###############
+[ 2019-02-21 23:38:40 ] ###############Try number = 1###############
+[ 2019-02-21 23:38:40 ] #####################################################################################################
+[ 2019-02-21 23:38:40 ]  Main level =0
+[ 2019-02-21 23:38:40 ] ---------------------------------------
+[ 2019-02-21 23:38:40 ] get_curl_live() function : Start
+[ 2019-02-21 23:38:40 ] ---------------------------------------
+[ 2019-02-21 23:38:40 ] TEST 1
+[ 2019-02-21 23:38:40 ] URL = http://www.validcreditcardnumber.com
+[ 2019-02-21 23:38:40 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-21 23:38:40 ] useragent = Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; chromeframe/13.0.782.215)
+[ 2019-02-21 23:38:40 ] Original encoding = ASCII
+[ 2019-02-21 23:38:40 ] Final encoding = ASCII
+[ 2019-02-21 23:38:40 ] Language = N/A
+[ 2019-02-21 23:38:40 ] 
+[ 2019-02-21 23:38:40 ] 
+[ 2019-02-21 23:38:40 ] /**************************************************************/
+[ 2019-02-21 23:38:40 ] /*******		Extract css_from_import files		**********/
+[ 2019-02-21 23:38:40 ] /**************************************************************/
+[ 2019-02-21 23:38:40 ] /*******		End : Extract css_from_import files		**********/
+[ 2019-02-21 23:38:40 ] 
+[ 2019-02-21 23:38:40 ] 
+[ 2019-02-21 23:38:40 ] 
+[ 2019-02-21 23:38:40 ] /**************************************************************/
+[ 2019-02-21 23:38:40 ] /*******		Extract pdf files		**********/
+[ 2019-02-21 23:38:40 ] /**************************************************************/
+[ 2019-02-21 23:38:40 ] /*******		End : Extract pdf files		**********/
+[ 2019-02-21 23:38:40 ] 
+[ 2019-02-21 23:38:40 ] 
+[ 2019-02-21 23:38:40 ] 
+[ 2019-02-21 23:38:40 ] /**************************************************************/
+[ 2019-02-21 23:38:40 ] /*******		Extract css files		**********/
+[ 2019-02-21 23:38:40 ] /**************************************************************/
+[ 2019-02-21 23:38:40 ] file url = http://www.validcreditcardnumber.com/static/google-code-prettify/prettify.css
+[ 2019-02-21 23:38:40 ] local_file_full_path = files/live/validcreditcardnumber.com_karimnagdinagdi_gmail.com_qvwv6azbkqt/static/google-code-prettify/prettify.css
+[ 2019-02-21 23:38:40 ] file url 1 = http://www.validcreditcardnumber.com/static/google-code-prettify/prettify.css
+[ 2019-02-21 23:38:40 ] scrape_it = 1
+[ 2019-02-21 23:38:40 ] ---------------------------------------
+[ 2019-02-21 23:38:40 ] get_curl_live() function : Start
+[ 2019-02-21 23:38:40 ] ---------------------------------------
+[ 2019-02-21 23:38:40 ] TEST 1
+[ 2019-02-21 23:38:40 ] URL = http://www.validcreditcardnumber.com/static/google-code-prettify/prettify.css
+[ 2019-02-21 23:38:40 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-21 23:38:40 ] useragent = Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1866.237 Safari/537.36
+[ 2019-02-21 23:38:40 ] 
+[ 2019-02-21 23:38:40 ] 
+[ 2019-02-21 23:38:40 ] /**************************************************************/
+[ 2019-02-21 23:38:40 ] /*******		Extract css_from_import files		**********/
+[ 2019-02-21 23:38:40 ] /**************************************************************/
+[ 2019-02-21 23:38:40 ] /*******		End : Extract css_from_import files		**********/
+[ 2019-02-21 23:38:40 ] 
+[ 2019-02-21 23:38:40 ] 
+[ 2019-02-21 23:38:40 ] 
+[ 2019-02-21 23:38:40 ] /**************************************************************/
+[ 2019-02-21 23:38:40 ] /*******		Extract fonts_from_css files		**********/
+[ 2019-02-21 23:38:40 ] /**************************************************************/
+[ 2019-02-21 23:38:40 ] /*******		End : Extract fonts_from_css files		**********/
+[ 2019-02-21 23:38:40 ] 
+[ 2019-02-21 23:38:40 ] 
+[ 2019-02-21 23:38:40 ] 
+[ 2019-02-21 23:38:40 ] /**************************************************************/
+[ 2019-02-21 23:38:40 ] /*******		Extract background_images files		**********/
+[ 2019-02-21 23:38:40 ] /**************************************************************/
+[ 2019-02-21 23:38:40 ] /*******		End : Extract background_images files		**********/
+[ 2019-02-21 23:38:40 ] 
+[ 2019-02-21 23:38:40 ] files/live/validcreditcardnumber.com_karimnagdinagdi_gmail.com_qvwv6azbkqt/static/google-code-prettify/prettify.css --> File Created !!!
+[ 2019-02-21 23:38:40 ] -------------------------------------------------------------------------------------------
+[ 2019-02-21 23:38:40 ] file url = http://www.validcreditcardnumber.com/static/css/bootstrap.min.css
+[ 2019-02-21 23:38:40 ] local_file_full_path = files/live/validcreditcardnumber.com_karimnagdinagdi_gmail.com_qvwv6azbkqt/static/css/bootstrap.min.css
+[ 2019-02-21 23:38:40 ] file url 1 = http://www.validcreditcardnumber.com/static/css/bootstrap.min.css
+[ 2019-02-21 23:38:40 ] scrape_it = 1
+[ 2019-02-21 23:38:40 ] ---------------------------------------
+[ 2019-02-21 23:38:40 ] get_curl_live() function : Start
+[ 2019-02-21 23:38:40 ] ---------------------------------------
+[ 2019-02-21 23:38:40 ] TEST 1
+[ 2019-02-21 23:38:40 ] URL = http://www.validcreditcardnumber.com/static/css/bootstrap.min.css
+[ 2019-02-21 23:38:40 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-21 23:38:40 ] useragent = Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.3319.102 Safari/537.36
+[ 2019-02-21 23:38:40 ] 
+[ 2019-02-21 23:38:40 ] 
+[ 2019-02-21 23:38:40 ] /**************************************************************/
+[ 2019-02-21 23:38:40 ] /*******		Extract css_from_import files		**********/
+[ 2019-02-21 23:38:40 ] /**************************************************************/
+[ 2019-02-21 23:38:40 ] file url = http://www.validcreditcardnumber.com/static/css/before{content:
+[ 2019-02-21 23:38:40 ] local_file_full_path = files/live/validcreditcardnumber.com_karimnagdinagdi_gmail.com_qvwv6azbkqt/static/css/before_content_.css
+[ 2019-02-21 23:38:40 ] file url 1 = http://www.validcreditcardnumber.com/static/css/before{content:
+[ 2019-02-21 23:38:40 ] scrape_it = 1
+[ 2019-02-21 23:38:40 ] ---------------------------------------
+[ 2019-02-21 23:38:40 ] get_curl_live() function : Start
+[ 2019-02-21 23:38:40 ] ---------------------------------------
+[ 2019-02-21 23:38:40 ] TEST 1
+[ 2019-02-21 23:38:40 ] URL = http://www.validcreditcardnumber.com/static/css/before{content:
+[ 2019-02-21 23:38:40 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-21 23:38:40 ] useragent = Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0
+[ 2019-02-21 23:38:40 ] Code = 404
+[ 2019-02-21 23:38:40 ] HTML found = Yes
+[ 2019-02-21 23:38:40 ]     No sleep!
+[ 2019-02-21 23:38:40 ] ----
+[ 2019-02-21 23:38:40 ] TEST 2
+[ 2019-02-21 23:38:40 ] URL = https://www.validcreditcardnumber.com/static/css/before{content:  --> Switch protocol ( Try 'https' )
+[ 2019-02-21 23:38:40 ] no proxy used ( Test nbr 2/5 )
+[ 2019-02-21 23:38:40 ] useragent = Mozilla/5.0 (X11; Linux x86_64; rv:14.0) Gecko/20100101 Firefox/14.0.1 Iceweasel/14.0.1
+[ 2019-02-21 23:38:40 ] Code = 404
+[ 2019-02-21 23:38:40 ] HTML found = Yes
+[ 2019-02-21 23:38:40 ]     No sleep!
+[ 2019-02-21 23:38:40 ] ----
+[ 2019-02-21 23:38:40 ] TEST 3
+[ 2019-02-21 23:38:40 ] URL = http://www.validcreditcardnumber.com/static/css/before{content:
+[ 2019-02-21 23:38:40 ] no proxy used ( Test nbr 3/5 )
+[ 2019-02-21 23:38:40 ] useragent = Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_6; en-us) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27
+[ 2019-02-21 23:38:40 ] Code = 404
+[ 2019-02-21 23:38:40 ] HTML found = Yes
+[ 2019-02-21 23:38:40 ]     No sleep!
+[ 2019-02-21 23:38:40 ] ----
+[ 2019-02-21 23:38:40 ] -------------------------------------------------------------------------------------------
+[ 2019-02-21 23:38:40 ] /*******		End : Extract css_from_import files		**********/
+[ 2019-02-21 23:38:40 ] 
+[ 2019-02-21 23:38:40 ] 
+[ 2019-02-21 23:38:40 ] 
+[ 2019-02-21 23:38:40 ] /**************************************************************/
+[ 2019-02-21 23:38:40 ] /*******		Extract fonts_from_css files		**********/
+[ 2019-02-21 23:38:40 ] /**************************************************************/
+[ 2019-02-21 23:38:40 ] file url = http://www.validcreditcardnumber.com/static/css/../fonts/glyphicons-halflings-regular.eot
+[ 2019-02-21 23:38:40 ] local_file_full_path = files/live/validcreditcardnumber.com_karimnagdinagdi_gmail.com_qvwv6azbkqt/static/css/--/fonts/glyphicons-halflings-regular.eot
+[ 2019-02-21 23:38:40 ] file url 1 = http://www.validcreditcardnumber.com/static/fonts/glyphicons-halflings-regular.eot
+[ 2019-02-21 23:38:40 ] scrape_it = 1
+[ 2019-02-21 23:38:40 ] ---------------------------------------
+[ 2019-02-21 23:38:40 ] get_curl_live() function : Start
+[ 2019-02-21 23:38:40 ] ---------------------------------------
+[ 2019-02-21 23:38:40 ] TEST 1
+[ 2019-02-21 23:38:40 ] URL = http://www.validcreditcardnumber.com/static/fonts/glyphicons-halflings-regular.eot
+[ 2019-02-21 23:38:40 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-21 23:38:40 ] useragent = Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0) chromeframe/10.0.648.205
+[ 2019-02-21 23:38:40 ] files/live/validcreditcardnumber.com_karimnagdinagdi_gmail.com_qvwv6azbkqt/static/css/--/fonts/glyphicons-halflings-regular.eot --> File Created !!!
+[ 2019-02-21 23:38:40 ] -------------------------------------------------------------------------------------------
+[ 2019-02-21 23:38:40 ] file url = http://www.validcreditcardnumber.com/static/css/../fonts/glyphicons-halflings-regular.eot?#iefix
+[ 2019-02-21 23:38:40 ] local_file_full_path = files/live/validcreditcardnumber.com_karimnagdinagdi_gmail.com_qvwv6azbkqt/static/css/--/fonts/glyphicons-halflings-regular.eot
+[ 2019-02-21 23:38:40 ] file url 1 = http://www.validcreditcardnumber.com/static/fonts/glyphicons-halflings-regular.eot?#iefix
+[ 2019-02-21 23:38:40 ] scrape_it = 1
+[ 2019-02-21 23:38:40 ] -------------------------------------------------------------------------------------------
+[ 2019-02-21 23:38:40 ] file url = http://www.validcreditcardnumber.com/static/css/../fonts/glyphicons-halflings-regular.woff2
+[ 2019-02-21 23:38:40 ] local_file_full_path = files/live/validcreditcardnumber.com_karimnagdinagdi_gmail.com_qvwv6azbkqt/static/css/--/fonts/glyphicons-halflings-regular.woff2
+[ 2019-02-21 23:38:40 ] file url 1 = http://www.validcreditcardnumber.com/static/fonts/glyphicons-halflings-regular.woff2
+[ 2019-02-21 23:38:40 ] scrape_it = 1
+[ 2019-02-21 23:38:40 ] ---------------------------------------
+[ 2019-02-21 23:38:40 ] get_curl_live() function : Start
+[ 2019-02-21 23:38:40 ] ---------------------------------------
+[ 2019-02-21 23:38:40 ] TEST 1
+[ 2019-02-21 23:38:40 ] URL = http://www.validcreditcardnumber.com/static/fonts/glyphicons-halflings-regular.woff2
+[ 2019-02-21 23:38:40 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-21 23:38:40 ] useragent = Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/4E423F
+[ 2019-02-21 23:38:40 ] files/live/validcreditcardnumber.com_karimnagdinagdi_gmail.com_qvwv6azbkqt/static/css/--/fonts/glyphicons-halflings-regular.woff2 --> File Created !!!
+[ 2019-02-21 23:38:40 ] -------------------------------------------------------------------------------------------
+[ 2019-02-21 23:38:40 ] file url = http://www.validcreditcardnumber.com/static/css/../fonts/glyphicons-halflings-regular.woff
+[ 2019-02-21 23:38:40 ] local_file_full_path = files/live/validcreditcardnumber.com_karimnagdinagdi_gmail.com_qvwv6azbkqt/static/css/--/fonts/glyphicons-halflings-regular.woff
+[ 2019-02-21 23:38:40 ] file url 1 = http://www.validcreditcardnumber.com/static/fonts/glyphicons-halflings-regular.woff
+[ 2019-02-21 23:38:40 ] scrape_it = 1
+[ 2019-02-21 23:38:40 ] ---------------------------------------
+[ 2019-02-21 23:38:40 ] get_curl_live() function : Start
+[ 2019-02-21 23:38:40 ] ---------------------------------------
+[ 2019-02-21 23:38:40 ] TEST 1
+[ 2019-02-21 23:38:40 ] URL = http://www.validcreditcardnumber.com/static/fonts/glyphicons-halflings-regular.woff
+[ 2019-02-21 23:38:40 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-21 23:38:41 ] useragent = Mozilla/5.0 (X11; OpenBSD amd64; rv:28.0) Gecko/20100101 Firefox/28.0
+[ 2019-02-21 23:38:41 ] files/live/validcreditcardnumber.com_karimnagdinagdi_gmail.com_qvwv6azbkqt/static/css/--/fonts/glyphicons-halflings-regular.woff --> File Created !!!
+[ 2019-02-21 23:38:41 ] -------------------------------------------------------------------------------------------
+[ 2019-02-21 23:38:41 ] file url = http://www.validcreditcardnumber.com/static/css/../fonts/glyphicons-halflings-regular.ttf
+[ 2019-02-21 23:38:41 ] local_file_full_path = files/live/validcreditcardnumber.com_karimnagdinagdi_gmail.com_qvwv6azbkqt/static/css/--/fonts/glyphicons-halflings-regular.ttf
+[ 2019-02-21 23:38:41 ] file url 1 = http://www.validcreditcardnumber.com/static/fonts/glyphicons-halflings-regular.ttf
+[ 2019-02-21 23:38:41 ] scrape_it = 1
+[ 2019-02-21 23:38:41 ] ---------------------------------------
+[ 2019-02-21 23:38:41 ] get_curl_live() function : Start
+[ 2019-02-21 23:38:41 ] ---------------------------------------
+[ 2019-02-21 23:38:41 ] TEST 1
+[ 2019-02-21 23:38:41 ] URL = http://www.validcreditcardnumber.com/static/fonts/glyphicons-halflings-regular.ttf
+[ 2019-02-21 23:38:41 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-21 23:38:41 ] useragent = Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:16.0.1) Gecko/20121011 Firefox/21.0.1
+[ 2019-02-21 23:38:41 ] files/live/validcreditcardnumber.com_karimnagdinagdi_gmail.com_qvwv6azbkqt/static/css/--/fonts/glyphicons-halflings-regular.ttf --> File Created !!!
+[ 2019-02-21 23:38:41 ] -------------------------------------------------------------------------------------------
+[ 2019-02-21 23:38:41 ] file url = http://www.validcreditcardnumber.com/static/css/../fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular
+[ 2019-02-21 23:38:41 ] local_file_full_path = files/live/validcreditcardnumber.com_karimnagdinagdi_gmail.com_qvwv6azbkqt/static/css/--/fonts/glyphicons-halflings-regular.svg
+[ 2019-02-21 23:38:41 ] file url 1 = http://www.validcreditcardnumber.com/static/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular
+[ 2019-02-21 23:38:41 ] scrape_it = 1
+[ 2019-02-21 23:38:41 ] ---------------------------------------
+[ 2019-02-21 23:38:41 ] get_curl_live() function : Start
+[ 2019-02-21 23:38:41 ] ---------------------------------------
+[ 2019-02-21 23:38:41 ] TEST 1
+[ 2019-02-21 23:38:41 ] URL = http://www.validcreditcardnumber.com/static/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular
+[ 2019-02-21 23:38:41 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-21 23:38:41 ] useragent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/537.13+ (KHTML, like Gecko) Version/5.1.7 Safari/534.57.2
+[ 2019-02-21 23:38:41 ] files/live/validcreditcardnumber.com_karimnagdinagdi_gmail.com_qvwv6azbkqt/static/css/--/fonts/glyphicons-halflings-regular.svg --> File Created !!!
+[ 2019-02-21 23:38:41 ] -------------------------------------------------------------------------------------------
+[ 2019-02-21 23:38:41 ] /*******		End : Extract fonts_from_css files		**********/
+[ 2019-02-21 23:38:41 ] 
+[ 2019-02-21 23:38:41 ] 
+[ 2019-02-21 23:38:41 ] 
+[ 2019-02-21 23:38:41 ] /**************************************************************/
+[ 2019-02-21 23:38:41 ] /*******		Extract background_images files		**********/
+[ 2019-02-21 23:38:41 ] /**************************************************************/
+[ 2019-02-21 23:38:41 ] file url = http://www.validcreditcardnumber.com/static/css/--/fonts/glyphicons-halflings-regular.svg
+[ 2019-02-21 23:38:41 ] local_file_full_path = files/live/validcreditcardnumber.com_karimnagdinagdi_gmail.com_qvwv6azbkqt/static/css/img/glyphicons-halflings-regular.svg
+[ 2019-02-21 23:38:41 ] file url 1 = http://www.validcreditcardnumber.com/static/css/--/fonts/glyphicons-halflings-regular.svg
+[ 2019-02-21 23:38:41 ] scrape_it = 1
+[ 2019-02-21 23:38:41 ] ---------------------------------------
+[ 2019-02-21 23:38:41 ] get_curl_live() function : Start
+[ 2019-02-21 23:38:41 ] ---------------------------------------
+[ 2019-02-21 23:38:41 ] TEST 1
+[ 2019-02-21 23:38:41 ] URL = http://www.validcreditcardnumber.com/static/css/--/fonts/glyphicons-halflings-regular.svg
+[ 2019-02-21 23:38:41 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-21 23:38:41 ] useragent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1944.0 Safari/537.36
+[ 2019-02-21 23:38:41 ] Code = 404
+[ 2019-02-21 23:38:41 ] HTML found = Yes
+[ 2019-02-21 23:38:41 ]     No sleep!
+[ 2019-02-21 23:38:41 ] ----
+[ 2019-02-21 23:38:41 ] TEST 2
+[ 2019-02-21 23:38:41 ] URL = https://www.validcreditcardnumber.com/static/css/--/fonts/glyphicons-halflings-regular.svg  --> Switch protocol ( Try 'https' )
+[ 2019-02-21 23:38:41 ] no proxy used ( Test nbr 2/5 )
+[ 2019-02-21 23:38:41 ] useragent = Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/4E423F
+[ 2019-02-21 23:38:41 ] Code = 404
+[ 2019-02-21 23:38:41 ] HTML found = Yes
+[ 2019-02-21 23:38:41 ]     No sleep!
+[ 2019-02-21 23:38:41 ] ----
+[ 2019-02-21 23:38:41 ] TEST 3
+[ 2019-02-21 23:38:41 ] URL = http://www.validcreditcardnumber.com/static/css/--/fonts/glyphicons-halflings-regular.svg
+[ 2019-02-21 23:38:41 ] no proxy used ( Test nbr 3/5 )
+[ 2019-02-21 23:38:41 ] useragent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.47 Safari/537.36
+[ 2019-02-21 23:38:41 ] Code = 404
+[ 2019-02-21 23:38:41 ] HTML found = Yes
+[ 2019-02-21 23:38:41 ]     No sleep!
+[ 2019-02-21 23:38:41 ] ----
+[ 2019-02-21 23:38:41 ] -------------------------------------------------------------------------------------------
+[ 2019-02-21 23:38:41 ] /*******		End : Extract background_images files		**********/
+[ 2019-02-21 23:38:41 ] 
+[ 2019-02-21 23:38:41 ] files/live/validcreditcardnumber.com_karimnagdinagdi_gmail.com_qvwv6azbkqt/static/css/bootstrap.min.css --> File Created !!!
+[ 2019-02-21 23:38:41 ] -------------------------------------------------------------------------------------------
+[ 2019-02-21 23:38:41 ] file url = http://www.validcreditcardnumber.com/static/css/custom.css
+[ 2019-02-21 23:38:41 ] local_file_full_path = files/live/validcreditcardnumber.com_karimnagdinagdi_gmail.com_qvwv6azbkqt/static/css/custom.css
+[ 2019-02-21 23:38:41 ] file url 1 = http://www.validcreditcardnumber.com/static/css/custom.css
+[ 2019-02-21 23:38:41 ] scrape_it = 1
+[ 2019-02-21 23:38:41 ] ---------------------------------------
+[ 2019-02-21 23:38:41 ] get_curl_live() function : Start
+[ 2019-02-21 23:38:41 ] ---------------------------------------
+[ 2019-02-21 23:38:41 ] TEST 1
+[ 2019-02-21 23:38:41 ] URL = http://www.validcreditcardnumber.com/static/css/custom.css
+[ 2019-02-21 23:38:41 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-21 23:38:41 ] useragent = Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; chromeframe/13.0.782.215)
+[ 2019-02-21 23:38:41 ] 
+[ 2019-02-21 23:38:41 ] 
+[ 2019-02-21 23:38:41 ] /**************************************************************/
+[ 2019-02-21 23:38:41 ] /*******		Extract css_from_import files		**********/
+[ 2019-02-21 23:38:41 ] /**************************************************************/
+[ 2019-02-21 23:38:41 ] /*******		End : Extract css_from_import files		**********/
+[ 2019-02-21 23:38:41 ] 
+[ 2019-02-21 23:38:41 ] 
+[ 2019-02-21 23:38:41 ] 
+[ 2019-02-21 23:38:41 ] /**************************************************************/
+[ 2019-02-21 23:38:41 ] /*******		Extract fonts_from_css files		**********/
+[ 2019-02-21 23:38:41 ] /**************************************************************/
+[ 2019-02-21 23:38:41 ] /*******		End : Extract fonts_from_css files		**********/
+[ 2019-02-21 23:38:41 ] 
+[ 2019-02-21 23:38:41 ] 
+[ 2019-02-21 23:38:41 ] 
+[ 2019-02-21 23:38:41 ] /**************************************************************/
+[ 2019-02-21 23:38:41 ] /*******		Extract background_images files		**********/
+[ 2019-02-21 23:38:41 ] /**************************************************************/
+[ 2019-02-21 23:38:41 ] file url = http://www.validcreditcardnumber.com/static/css/../img/card-visa.gif
+[ 2019-02-21 23:38:41 ] local_file_full_path = files/live/validcreditcardnumber.com_karimnagdinagdi_gmail.com_qvwv6azbkqt/static/css/img/card-visa.gif
+[ 2019-02-21 23:38:41 ] file url 1 = http://www.validcreditcardnumber.com/static/img/card-visa.gif
+[ 2019-02-21 23:38:41 ] scrape_it = 1
+[ 2019-02-21 23:38:41 ] ---------------------------------------
+[ 2019-02-21 23:38:41 ] get_curl_live() function : Start
+[ 2019-02-21 23:38:41 ] ---------------------------------------
+[ 2019-02-21 23:38:41 ] TEST 1
+[ 2019-02-21 23:38:41 ] URL = http://www.validcreditcardnumber.com/static/img/card-visa.gif
+[ 2019-02-21 23:38:41 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-21 23:38:41 ] useragent = Mozilla/5.0 (Windows NT 6.1; WOW64; rv:21.0) Gecko/20130330 Firefox/21.0
+[ 2019-02-21 23:38:41 ] files/live/validcreditcardnumber.com_karimnagdinagdi_gmail.com_qvwv6azbkqt/static/css/img/card-visa.gif --> File Created !!!
+[ 2019-02-21 23:38:41 ] -------------------------------------------------------------------------------------------
+[ 2019-02-21 23:38:41 ] file url = http://www.validcreditcardnumber.com/static/css/../img/card-amex.gif
+[ 2019-02-21 23:38:41 ] local_file_full_path = files/live/validcreditcardnumber.com_karimnagdinagdi_gmail.com_qvwv6azbkqt/static/css/img/card-amex.gif
+[ 2019-02-21 23:38:41 ] file url 1 = http://www.validcreditcardnumber.com/static/img/card-amex.gif
+[ 2019-02-21 23:38:41 ] scrape_it = 1
+[ 2019-02-21 23:38:41 ] ---------------------------------------
+[ 2019-02-21 23:38:41 ] get_curl_live() function : Start
+[ 2019-02-21 23:38:41 ] ---------------------------------------
+[ 2019-02-21 23:38:41 ] TEST 1
+[ 2019-02-21 23:38:41 ] URL = http://www.validcreditcardnumber.com/static/img/card-amex.gif
+[ 2019-02-21 23:38:41 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-21 23:38:41 ] useragent = Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/4.0; GTB7.4; InfoPath.1; SV1; .NET CLR 2.8.52393; WOW64; en-US)
+[ 2019-02-21 23:38:41 ] files/live/validcreditcardnumber.com_karimnagdinagdi_gmail.com_qvwv6azbkqt/static/css/img/card-amex.gif --> File Created !!!
+[ 2019-02-21 23:38:41 ] -------------------------------------------------------------------------------------------
+[ 2019-02-21 23:38:41 ] file url = http://www.validcreditcardnumber.com/static/css/../img/card-jcb.gif
+[ 2019-02-21 23:38:41 ] local_file_full_path = files/live/validcreditcardnumber.com_karimnagdinagdi_gmail.com_qvwv6azbkqt/static/css/img/card-jcb.gif
+[ 2019-02-21 23:38:41 ] file url 1 = http://www.validcreditcardnumber.com/static/img/card-jcb.gif
+[ 2019-02-21 23:38:41 ] scrape_it = 1
+[ 2019-02-21 23:38:41 ] ---------------------------------------
+[ 2019-02-21 23:38:41 ] get_curl_live() function : Start
+[ 2019-02-21 23:38:41 ] ---------------------------------------
+[ 2019-02-21 23:38:41 ] TEST 1
+[ 2019-02-21 23:38:41 ] URL = http://www.validcreditcardnumber.com/static/img/card-jcb.gif
+[ 2019-02-21 23:38:41 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-21 23:38:41 ] useragent = Mozilla/5.0 (Windows NT 6.3; rv:36.0) Gecko/20100101 Firefox/36.0
+[ 2019-02-21 23:38:41 ] files/live/validcreditcardnumber.com_karimnagdinagdi_gmail.com_qvwv6azbkqt/static/css/img/card-jcb.gif --> File Created !!!
+[ 2019-02-21 23:38:41 ] -------------------------------------------------------------------------------------------
+[ 2019-02-21 23:38:41 ] file url = http://www.validcreditcardnumber.com/static/css/../img/card-mastercard.gif
+[ 2019-02-21 23:38:41 ] local_file_full_path = files/live/validcreditcardnumber.com_karimnagdinagdi_gmail.com_qvwv6azbkqt/static/css/img/card-mastercard.gif
+[ 2019-02-21 23:38:41 ] file url 1 = http://www.validcreditcardnumber.com/static/img/card-mastercard.gif
+[ 2019-02-21 23:38:41 ] scrape_it = 1
+[ 2019-02-21 23:38:41 ] ---------------------------------------
+[ 2019-02-21 23:38:41 ] get_curl_live() function : Start
+[ 2019-02-21 23:38:41 ] ---------------------------------------
+[ 2019-02-21 23:38:41 ] TEST 1
+[ 2019-02-21 23:38:41 ] URL = http://www.validcreditcardnumber.com/static/img/card-mastercard.gif
+[ 2019-02-21 23:38:41 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-21 23:38:41 ] useragent = Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; FunWebProducts)
+[ 2019-02-21 23:38:41 ] files/live/validcreditcardnumber.com_karimnagdinagdi_gmail.com_qvwv6azbkqt/static/css/img/card-mastercard.gif --> File Created !!!
+[ 2019-02-21 23:38:41 ] -------------------------------------------------------------------------------------------
+[ 2019-02-21 23:38:41 ] file url = http://www.validcreditcardnumber.com/static/css/../img/card-discover.gif
+[ 2019-02-21 23:38:41 ] local_file_full_path = files/live/validcreditcardnumber.com_karimnagdinagdi_gmail.com_qvwv6azbkqt/static/css/img/card-discover.gif
+[ 2019-02-21 23:38:41 ] file url 1 = http://www.validcreditcardnumber.com/static/img/card-discover.gif
+[ 2019-02-21 23:38:41 ] scrape_it = 1
+[ 2019-02-21 23:38:41 ] ---------------------------------------
+[ 2019-02-21 23:38:41 ] get_curl_live() function : Start
+[ 2019-02-21 23:38:41 ] ---------------------------------------
+[ 2019-02-21 23:38:41 ] TEST 1
+[ 2019-02-21 23:38:41 ] URL = http://www.validcreditcardnumber.com/static/img/card-discover.gif
+[ 2019-02-21 23:38:41 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-21 23:38:41 ] useragent = Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.67 Safari/537.36
+[ 2019-02-21 23:38:41 ] files/live/validcreditcardnumber.com_karimnagdinagdi_gmail.com_qvwv6azbkqt/static/css/img/card-discover.gif --> File Created !!!
+[ 2019-02-21 23:38:41 ] -------------------------------------------------------------------------------------------
+[ 2019-02-21 23:38:41 ] file url = http://www.validcreditcardnumber.com/static/css/../img/card-diners.gif
+[ 2019-02-21 23:38:41 ] local_file_full_path = files/live/validcreditcardnumber.com_karimnagdinagdi_gmail.com_qvwv6azbkqt/static/css/img/card-diners.gif
+[ 2019-02-21 23:38:41 ] file url 1 = http://www.validcreditcardnumber.com/static/img/card-diners.gif
+[ 2019-02-21 23:38:41 ] scrape_it = 1
+[ 2019-02-21 23:38:41 ] ---------------------------------------
+[ 2019-02-21 23:38:41 ] get_curl_live() function : Start
+[ 2019-02-21 23:38:41 ] ---------------------------------------
+[ 2019-02-21 23:38:41 ] TEST 1
+[ 2019-02-21 23:38:41 ] URL = http://www.validcreditcardnumber.com/static/img/card-diners.gif
+[ 2019-02-21 23:38:41 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-21 23:38:41 ] useragent = Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27
+[ 2019-02-21 23:38:41 ] files/live/validcreditcardnumber.com_karimnagdinagdi_gmail.com_qvwv6azbkqt/static/css/img/card-diners.gif --> File Created !!!
+[ 2019-02-21 23:38:41 ] -------------------------------------------------------------------------------------------
+[ 2019-02-21 23:38:41 ] /*******		End : Extract background_images files		**********/
+[ 2019-02-21 23:38:41 ] 
+[ 2019-02-21 23:38:41 ] files/live/validcreditcardnumber.com_karimnagdinagdi_gmail.com_qvwv6azbkqt/static/css/custom.css --> File Created !!!
+[ 2019-02-21 23:38:41 ] -------------------------------------------------------------------------------------------
+[ 2019-02-21 23:38:41 ] /*******		End : Extract css files		**********/
+[ 2019-02-21 23:38:41 ] 
+[ 2019-02-21 23:38:41 ] 
+[ 2019-02-21 23:38:41 ] 
+[ 2019-02-21 23:38:41 ] /**************************************************************/
+[ 2019-02-21 23:38:41 ] /*******		Extract fonts_from_html files		**********/
+[ 2019-02-21 23:38:41 ] /**************************************************************/
+[ 2019-02-21 23:38:41 ] /*******		End : Extract fonts_from_html files		**********/
+[ 2019-02-21 23:38:41 ] 
+[ 2019-02-21 23:38:41 ] 
+[ 2019-02-21 23:38:41 ] 
+[ 2019-02-21 23:38:41 ] /**************************************************************/
+[ 2019-02-21 23:38:41 ] /*******		Extract xml files		**********/
+[ 2019-02-21 23:38:41 ] /**************************************************************/
+[ 2019-02-21 23:38:41 ] /*******		End : Extract xml files		**********/
+[ 2019-02-21 23:38:41 ] 
+[ 2019-02-21 23:38:41 ] 
+[ 2019-02-21 23:38:41 ] 
+[ 2019-02-21 23:38:41 ] /**************************************************************/
+[ 2019-02-21 23:38:41 ] /*******		Extract txt files		**********/
+[ 2019-02-21 23:38:41 ] /**************************************************************/
+[ 2019-02-21 23:38:41 ] /*******		End : Extract txt files		**********/
+[ 2019-02-21 23:38:41 ] 
+[ 2019-02-21 23:38:41 ] 
+[ 2019-02-21 23:38:41 ] 
+[ 2019-02-21 23:38:41 ] /**************************************************************/
+[ 2019-02-21 23:38:41 ] /*******		Extract script files		**********/
+[ 2019-02-21 23:38:41 ] /**************************************************************/
+[ 2019-02-21 23:38:41 ] file url = http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
+[ 2019-02-21 23:38:41 ] local_file_full_path = files/live/validcreditcardnumber.com_karimnagdinagdi_gmail.com_qvwv6azbkqt/pagead2-googlesyndication-com/pagead/js/adsbygoogle.js
+[ 2019-02-21 23:38:41 ] file url 1 = http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
+[ 2019-02-21 23:38:41 ] scrape_it = 1
+[ 2019-02-21 23:38:41 ] ---------------------------------------
+[ 2019-02-21 23:38:41 ] get_curl_live() function : Start
+[ 2019-02-21 23:38:41 ] ---------------------------------------
+[ 2019-02-21 23:38:41 ] TEST 1
+[ 2019-02-21 23:38:41 ] URL = http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
+[ 2019-02-21 23:38:41 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-21 23:38:41 ] useragent = Mozilla/5.0 (Windows NT 6.2; rv:21.0) Gecko/20130326 Firefox/21.0
+[ 2019-02-21 23:38:41 ] files/live/validcreditcardnumber.com_karimnagdinagdi_gmail.com_qvwv6azbkqt/pagead2-googlesyndication-com/pagead/js/adsbygoogle.js --> File Created !!!
+[ 2019-02-21 23:38:41 ] -------------------------------------------------------------------------------------------
+[ 2019-02-21 23:38:41 ] file url = https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js
+[ 2019-02-21 23:38:41 ] local_file_full_path = files/live/validcreditcardnumber.com_karimnagdinagdi_gmail.com_qvwv6azbkqt/ajax-googleapis-com/ajax/libs/jquery/1-11-3/jquery.min.js
+[ 2019-02-21 23:38:41 ] file url 1 = https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js
+[ 2019-02-21 23:38:41 ] scrape_it = 1
+[ 2019-02-21 23:38:41 ] ---------------------------------------
+[ 2019-02-21 23:38:41 ] get_curl_live() function : Start
+[ 2019-02-21 23:38:41 ] ---------------------------------------
+[ 2019-02-21 23:38:41 ] TEST 1
+[ 2019-02-21 23:38:41 ] URL = https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js
+[ 2019-02-21 23:38:41 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-21 23:38:42 ] useragent = Mozilla/5.0 (X11; Linux x86_64; rv:28.0) Gecko/20100101 Firefox/28.0
+[ 2019-02-21 23:38:42 ] files/live/validcreditcardnumber.com_karimnagdinagdi_gmail.com_qvwv6azbkqt/ajax-googleapis-com/ajax/libs/jquery/1-11-3/jquery.min.js --> File Created !!!
+[ 2019-02-21 23:38:42 ] -------------------------------------------------------------------------------------------
+[ 2019-02-21 23:38:42 ] file url = http://www.validcreditcardnumber.com/static/js/jquery.validate.min.js
+[ 2019-02-21 23:38:42 ] local_file_full_path = files/live/validcreditcardnumber.com_karimnagdinagdi_gmail.com_qvwv6azbkqt/static/js/jquery.validate.min.js
+[ 2019-02-21 23:38:42 ] file url 1 = http://www.validcreditcardnumber.com/static/js/jquery.validate.min.js
+[ 2019-02-21 23:38:42 ] scrape_it = 1
+[ 2019-02-21 23:38:42 ] ---------------------------------------
+[ 2019-02-21 23:38:42 ] get_curl_live() function : Start
+[ 2019-02-21 23:38:42 ] ---------------------------------------
+[ 2019-02-21 23:38:42 ] TEST 1
+[ 2019-02-21 23:38:42 ] URL = http://www.validcreditcardnumber.com/static/js/jquery.validate.min.js
+[ 2019-02-21 23:38:42 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-21 23:38:42 ] useragent = Mozilla/5.0 (X11; Linux i686; rv:21.0) Gecko/20100101 Firefox/21.0
+[ 2019-02-21 23:38:42 ] files/live/validcreditcardnumber.com_karimnagdinagdi_gmail.com_qvwv6azbkqt/static/js/jquery.validate.min.js --> File Created !!!
+[ 2019-02-21 23:38:42 ] -------------------------------------------------------------------------------------------
+[ 2019-02-21 23:38:42 ] file url = http://www.validcreditcardnumber.com/static/js/bootstrap.min.js
+[ 2019-02-21 23:38:42 ] local_file_full_path = files/live/validcreditcardnumber.com_karimnagdinagdi_gmail.com_qvwv6azbkqt/static/js/bootstrap.min.js
+[ 2019-02-21 23:38:42 ] file url 1 = http://www.validcreditcardnumber.com/static/js/bootstrap.min.js
+[ 2019-02-21 23:38:42 ] scrape_it = 1
+[ 2019-02-21 23:38:42 ] ---------------------------------------
+[ 2019-02-21 23:38:42 ] get_curl_live() function : Start
+[ 2019-02-21 23:38:42 ] ---------------------------------------
+[ 2019-02-21 23:38:42 ] TEST 1
+[ 2019-02-21 23:38:42 ] URL = http://www.validcreditcardnumber.com/static/js/bootstrap.min.js
+[ 2019-02-21 23:38:42 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-21 23:38:42 ] useragent = Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC2; Media Center PC 6.0; InfoPath.3; MS-RTC LM 8; Zune 4.7)
+[ 2019-02-21 23:38:42 ] files/live/validcreditcardnumber.com_karimnagdinagdi_gmail.com_qvwv6azbkqt/static/js/bootstrap.min.js --> File Created !!!
+[ 2019-02-21 23:38:42 ] -------------------------------------------------------------------------------------------
+[ 2019-02-21 23:38:42 ] file url = http://www.validcreditcardnumber.com/static/google-code-prettify/prettify.js
+[ 2019-02-21 23:38:42 ] local_file_full_path = files/live/validcreditcardnumber.com_karimnagdinagdi_gmail.com_qvwv6azbkqt/static/google-code-prettify/prettify.js
+[ 2019-02-21 23:38:42 ] file url 1 = http://www.validcreditcardnumber.com/static/google-code-prettify/prettify.js
+[ 2019-02-21 23:38:42 ] scrape_it = 1
+[ 2019-02-21 23:38:42 ] ---------------------------------------
+[ 2019-02-21 23:38:42 ] get_curl_live() function : Start
+[ 2019-02-21 23:38:42 ] ---------------------------------------
+[ 2019-02-21 23:38:42 ] TEST 1
+[ 2019-02-21 23:38:42 ] URL = http://www.validcreditcardnumber.com/static/google-code-prettify/prettify.js
+[ 2019-02-21 23:38:42 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-21 23:38:42 ] useragent = Mozilla/5.0 (X11; OpenBSD amd64; rv:28.0) Gecko/20100101 Firefox/28.0
+[ 2019-02-21 23:38:42 ] files/live/validcreditcardnumber.com_karimnagdinagdi_gmail.com_qvwv6azbkqt/static/google-code-prettify/prettify.js --> File Created !!!
+[ 2019-02-21 23:38:42 ] -------------------------------------------------------------------------------------------
+[ 2019-02-21 23:38:42 ] /*******		End : Extract script files		**********/
+[ 2019-02-21 23:38:42 ] 
+[ 2019-02-21 23:38:42 ] 
+[ 2019-02-21 23:38:42 ] 
+[ 2019-02-21 23:38:42 ] /**************************************************************/
+[ 2019-02-21 23:38:42 ] /*******		Extract img files		**********/
+[ 2019-02-21 23:38:42 ] /**************************************************************/
+[ 2019-02-21 23:38:42 ] file url = http://www.validcreditcardnumber.com/static/img/favicon.ico
+[ 2019-02-21 23:38:42 ] local_file_full_path = files/live/validcreditcardnumber.com_karimnagdinagdi_gmail.com_qvwv6azbkqt/static/img/favicon.ico
+[ 2019-02-21 23:38:42 ] file url 1 = http://www.validcreditcardnumber.com/static/img/favicon.ico
+[ 2019-02-21 23:38:42 ] scrape_it = 1
+[ 2019-02-21 23:38:42 ] ---------------------------------------
+[ 2019-02-21 23:38:42 ] get_curl_live() function : Start
+[ 2019-02-21 23:38:42 ] ---------------------------------------
+[ 2019-02-21 23:38:42 ] TEST 1
+[ 2019-02-21 23:38:42 ] URL = http://www.validcreditcardnumber.com/static/img/favicon.ico
+[ 2019-02-21 23:38:42 ] no proxy used ( Test nbr 1/5 )
+[ 2019-02-21 23:38:42 ] useragent = Mozilla/5.0 (Windows NT 6.1; rv:22.0) Gecko/20130405 Firefox/22.0
+[ 2019-02-21 23:38:42 ] files/live/validcreditcardnumber.com_karimnagdinagdi_gmail.com_qvwv6azbkqt/static/img/favicon.ico --> File Created !!!
+[ 2019-02-21 23:38:42 ] -------------------------------------------------------------------------------------------
+[ 2019-02-21 23:38:42 ] /*******		End : Extract img files		**********/
+[ 2019-02-21 23:38:42 ] 
+[ 2019-02-21 23:38:42 ] 
+[ 2019-02-21 23:38:42 ] 
+[ 2019-02-21 23:38:42 ] /**************************************************************/
+[ 2019-02-21 23:38:42 ] /*******		Extract background_images files		**********/
+[ 2019-02-21 23:38:42 ] /**************************************************************/
+[ 2019-02-21 23:38:42 ] /*******		End : Extract background_images files		**********/
+[ 2019-02-21 23:38:42 ] 
+[ 2019-02-21 23:38:42 ] 
+[ 2019-02-21 23:38:42 ] 
+[ 2019-02-21 23:38:42 ] /**************************************************************/
+[ 2019-02-21 23:38:42 ] /*******		Extract background_images_in_html files		**********/
+[ 2019-02-21 23:38:42 ] /**************************************************************/
+[ 2019-02-21 23:38:42 ] /*******		End : Extract background_images_in_html files		**********/
+[ 2019-02-21 23:38:42 ] 
+[ 2019-02-21 23:38:42 ] 
+[ 2019-02-21 23:38:42 ] 
+[ 2019-02-21 23:38:42 ] /**************************************************************/
+[ 2019-02-21 23:38:42 ] /*******		Extract swf files		**********/
+[ 2019-02-21 23:38:42 ] /**************************************************************/
+[ 2019-02-21 23:38:42 ] /*******		End : Extract swf files		**********/
+[ 2019-02-21 23:38:42 ] 
+[ 2019-02-21 23:38:42 ] Removed external links total ( 0 / 3 )
+[ 2019-02-21 23:38:42 ] Partial Size : 760
+[ 2019-02-21 23:38:42 ] size_limit_KO : 10000
+[ 2019-02-21 23:38:42 ] files/live/validcreditcardnumber.com_karimnagdinagdi_gmail.com_qvwv6azbkqt/index.html --> HTML File Created !!!
+[ 2019-02-21 23:38:42 ] ----------------------------------------------------------------------
+[ 2019-02-21 23:38:42 ] update  to_create_arr[0][is_done] = 1
+[ 2019-02-21 23:38:42 ] ( 1 / 0 )  Done - 1 error pages fixed
+[ 2019-02-21 23:38:42 ] Final Size : 764
