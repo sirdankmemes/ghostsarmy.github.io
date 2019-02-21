@@ -1,0 +1,1209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data> 
+  <lang slug="Processing"> 
+    <text>Processing</text>
+  </lang>
+  <lang slug="Queue">  
+    <text>Queue</text>
+  </lang>
+  <lang slug="Failure">  
+    <text>Failure</text>
+  </lang>
+  <lang slug="Repeat"> 
+    <text>Repeat</text>
+  </lang>
+  <lang slug="Complete"> 
+    <text>Complete</text>
+  </lang>
+  <lang slug="You have not joined this group"> 
+    <text>You have not joined this group</text>
+  </lang>
+  <lang slug="Cookie expired, Please login again"> 
+    <text>Cookie expired, Please login again</text>
+  </lang>
+  <lang slug="Post successfully">  
+    <text>Post successfully</text>
+  </lang>
+  <lang slug="Registration for join in the success group"> 
+    <text>Registration for join in the success group</text>
+  </lang>
+  <lang slug="Join group failure"> 
+    <text>Join group failure</text>
+  </lang>
+  <lang slug="Comment successfully"> 
+    <text>Comment successfully</text>
+  </lang>
+  <lang slug="Comment failure">  
+    <text>Comment failure</text>
+  </lang>
+  <lang slug="Like successfully">  
+    <text>Like successfully</text>
+  </lang>
+  <lang slug="Like failure"> 
+    <text>Like failure</text>
+  </lang>
+  <lang slug="Friend request sent">  
+    <text>Friend request sent</text>
+  </lang>
+  <lang slug="Friend request failure"> 
+    <text>Friend request failure</text>
+  </lang>
+  <lang slug="Unfriend successfully">  
+    <text>Unfriend successfully</text>
+  </lang>
+  <lang slug="Unfriend failure"> 
+    <text>Unfriend failure</text>
+  </lang>
+  <lang slug="Invite successfully">  
+    <text>Invite successfully</text>
+  </lang>
+  <lang slug="Invite failure"> 
+    <text>Invite failure</text>
+  </lang>
+  <lang slug="Accept friend request successfully"> 
+    <text>Accept friend request successfully</text>
+  </lang>
+  <lang slug="Accept friend request failure">  
+    <text>Accept friend request failure</text>
+  </lang>
+  <lang slug="Repost successfully">  
+    <text>Repost successfully</text>
+  </lang>
+  <lang slug="This page does not have recent post">  
+    <text>This page does not have recent post</text>
+  </lang>
+  <lang slug="Auto accept friend request"> 
+    <text>Auto accept friend request</text>
+  </lang>
+  <lang slug="Facebook account not exist"> 
+    <text>Facebook account not exist</text>
+  </lang>
+  <lang slug="Have problem with this item">  
+    <text>Have problem with this item</text>
+  </lang>
+  <lang slug="Time post is required">  
+    <text>Time post is required</text>
+  </lang>
+  <lang slug="Select at least a facebook user">  
+    <text>Select at least a facebook user</text>
+  </lang>
+  <lang slug="Successfully"> 
+    <text>Successfully</text>
+  </lang>
+  <lang slug="The error occurred during processing"> 
+    <text>The error occurred during processing</text>
+  </lang>
+  <lang slug="ID"> 
+    <text>ID</text>
+  </lang>
+  <lang slug="Name"> 
+    <text>Name</text>
+  </lang>
+  <lang slug="Process">  
+    <text>Process</text>
+  </lang>
+  <lang slug="Delay (seconds)">  
+    <text>Delay (seconds)</text>
+  </lang>
+  <lang slug="seconds">  
+    <text>seconds</text>
+  </lang>
+  <lang slug="Add now">  
+    <text>Add now</text>
+  </lang>
+  <lang slug="Schedule"> 
+    <text>Schedule</text>
+  </lang>
+  <lang slug="Time post">  
+    <text>Time post</text>
+  </lang>
+  <lang slug="Delay (minutes)">  
+    <text>Delay (minutes)</text>
+  </lang>
+  <lang slug="minutes">  
+    <text>minutes</text>
+  </lang>
+  <lang slug="Auto pause after complete">  
+    <text>Auto pause after complete</text>
+  </lang>
+  <lang slug="No"> 
+    <text>No</text>
+  </lang>
+  <lang slug="posts">  
+    <text>posts</text>
+  </lang>
+  <lang slug="Time pause"> 
+    <text>Time pause</text>
+  </lang>
+  <lang slug="Save the schedule">  
+    <text>Save the schedule</text>
+  </lang>
+  <lang slug="Pause">  
+    <text>Pause</text>
+  </lang>
+  <lang slug="Resume"> 
+    <text>Resume</text>
+  </lang>
+  <lang slug="Time left:"> 
+    <text>Time left:</text>
+  </lang>
+  <lang slug="Select Facebook Users">  
+    <text>Select Facebook Users</text>
+  </lang>
+  <lang slug="Facebook accounts">  
+    <text>Facebook accounts</text>
+  </lang>
+  <lang slug="Search"> 
+    <text>Search</text>
+  </lang>
+  <lang slug="Auto add friends"> 
+    <text>Auto add friends</text>
+  </lang>
+  <lang slug="Keyword is requied"> 
+    <text>Keyword is requied</text>
+  </lang>
+  <lang slug="Facebook User ID is requied">  
+    <text>Facebook User ID is requied</text>
+  </lang>
+  <lang slug="Group ID is requied">  
+    <text>Group ID is requied</text>
+  </lang>
+  <lang slug="Post ID is requied"> 
+    <text>Post ID is requied</text>
+  </lang>
+  <lang slug="Privacy">  
+    <text>Privacy</text>
+  </lang>
+  <lang slug="Member"> 
+    <text>Member</text>
+  </lang>
+  <lang slug="Get members">  
+    <text>Get members</text>
+  </lang>
+  <lang slug="Search Friend">  
+    <text>Search Friend</text>
+  </lang>
+  <lang slug="Friend Of User"> 
+    <text>Friend Of User</text>
+  </lang>
+  <lang slug="Memer Of Groups">  
+    <text>Memer Of Groups</text>
+  </lang>
+  <lang slug="Who like Post">  
+    <text>Who like Post</text>
+  </lang>
+  <lang slug="Who Comment Post"> 
+    <text>Who Comment Post</text>
+  </lang>
+  <lang slug="Import Facebook UID">  
+    <text>Import Facebook UID</text>
+  </lang>
+  <lang slug="Keyword">  
+    <text>Keyword</text>
+  </lang>
+  <lang slug="Limit">  
+    <text>Limit</text>
+  </lang>
+  <lang slug="Facebook User ID"> 
+    <text>Facebook User ID</text>
+  </lang>
+  <lang slug="Group ID"> 
+    <text>Group ID</text>
+  </lang>
+  <lang slug="Post ID">  
+    <text>Post ID</text>
+  </lang>
+  <lang slug="Import List Facebook UID"> 
+    <text>Import List Facebook UID</text>
+  </lang>
+  <lang slug="Upload"> 
+    <text>Upload</text>
+  </lang>
+  <lang slug="Type"> 
+    <text>Type</text>
+  </lang>
+  <lang slug="Link"> 
+    <text>Link</text>
+  </lang>
+  <lang slug="Analytics page"> 
+    <text>Analytics page</text>
+  </lang>
+  <lang slug="List page">  
+    <text>List page</text>
+  </lang>
+  <lang slug="All accounts"> 
+    <text>All accounts</text>
+  </lang>
+  <lang slug="No.">  
+    <text>No.</text>
+  </lang>
+  <lang slug="Account">  
+    <text>Account</text>
+  </lang>
+  <lang slug="Category"> 
+    <text>Category</text>
+  </lang>
+  <lang slug="Analytics">  
+    <text>Analytics</text>
+  </lang>
+  <lang slug="Visit page"> 
+    <text>Visit page</text>
+  </lang>
+  <lang slug="2016 - 2017 © VTCreators. All rights reserved."> 
+    <text>2016 - 2017 © VTCreators. All rights reserved.</text>
+  </lang>
+  <lang slug="Pricing">  
+    <text>Pricing</text>
+  </lang>
+  <lang slug="Register"> 
+    <text>Register</text>
+  </lang>
+  <lang slug="Login">  
+    <text>Login</text>
+  </lang>
+  <lang slug="Hi"> 
+    <text>Hi</text>
+  </lang>
+  <lang slug="MAIN NAVIGATION">  
+    <text>MAIN NAVIGATION</text>
+  </lang>
+  <lang slug="Dashboard">  
+    <text>Dashboard</text>
+  </lang>
+  <lang slug="Save post">  
+    <text>Save post</text>
+  </lang>
+  <lang slug="LIST TOOLS"> 
+    <text>LIST TOOLS</text>
+  </lang>
+  <lang slug="Auto post">  
+    <text>Auto post</text>
+  </lang>
+  <lang slug="Add new">  
+    <text>Add new</text>
+  </lang>
+  <lang slug="Schedule post">  
+    <text>Schedule post</text>
+  </lang>
+  <lang slug="Auto repost pages">  
+    <text>Auto repost pages</text>
+  </lang>
+  <lang slug="Repalce text"> 
+    <text>Repalce text</text>
+  </lang>
+  <lang slug="Schedule repost pages">  
+    <text>Schedule repost pages</text>
+  </lang>
+  <lang slug="Auto join groups"> 
+    <text>Auto join groups</text>
+  </lang>
+  <lang slug="Schedule join group">  
+    <text>Schedule join group</text>
+  </lang>
+  <lang slug="Schedule add friends"> 
+    <text>Schedule add friends</text>
+  </lang>
+  <lang slug="Auto unfriends"> 
+    <text>Auto unfriends</text>
+  </lang>
+  <lang slug="Schedule unfriends"> 
+    <text>Schedule unfriends</text>
+  </lang>
+  <lang slug="Auto invite to groups">  
+    <text>Auto invite to groups</text>
+  </lang>
+  <lang slug="Schedule invite to groups">  
+    <text>Schedule invite to groups</text>
+  </lang>
+  <lang slug="Auto invite to like page"> 
+    <text>Auto invite to like page</text>
+  </lang>
+  <lang slug="Schedule invite to like page"> 
+    <text>Schedule invite to like page</text>
+  </lang>
+  <lang slug="Schedule accept friend request"> 
+    <text>Schedule accept friend request</text>
+  </lang>
+  <lang slug="Auto comment"> 
+    <text>Auto comment</text>
+  </lang>
+  <lang slug="Schedule comment"> 
+    <text>Schedule comment</text>
+  </lang>
+  <lang slug="Auto like">  
+    <text>Auto like</text>
+  </lang>
+  <lang slug="Schedule like">  
+    <text>Schedule like</text>
+  </lang>
+  <lang slug="Facebook search">  
+    <text>Facebook search</text>
+  </lang>
+  <lang slug="ADMIN AREA"> 
+    <text>ADMIN AREA</text>
+  </lang>
+  <lang slug="Payment management"> 
+    <text>Payment management</text>
+  </lang>
+  <lang slug="Package settings"> 
+    <text>Package settings</text>
+  </lang>
+  <lang slug="Payment settings"> 
+    <text>Payment settings</text>
+  </lang>
+  <lang slug="Payment history">  
+    <text>Payment history</text>
+  </lang>
+  <lang slug="User management">  
+    <text>User management</text>
+  </lang>
+  <lang slug="Settings"> 
+    <text>Settings</text>
+  </lang>
+  <lang slug="VT Creators Team"> 
+    <text>VT Creators Team</text>
+  </lang>
+  <lang slug="Select at least a item"> 
+    <text>Select at least a item</text>
+  </lang>
+  <lang slug="Select at least a Page/Group/Profile"> 
+    <text>Select at least a Page/Group/Profile</text>
+  </lang>
+  <lang slug="Message is required">  
+    <text>Message is required</text>
+  </lang>
+  <lang slug="Link is not a valid">  
+    <text>Link is not a valid</text>
+  </lang>
+  <lang slug="Select at least a friend"> 
+    <text>Select at least a friend</text>
+  </lang>
+  <lang slug="Message">  
+    <text>Message</text>
+  </lang>
+  <lang slug="Write something..."> 
+    <text>Write something...</text>
+  </lang>
+  <lang slug="Save comment"> 
+    <text>Save comment</text>
+  </lang>
+  <lang slug="Comment now">  
+    <text>Comment now</text>
+  </lang>
+  <lang slug="Repeat post">  
+    <text>Repeat post</text>
+  </lang>
+  <lang slug="days"> 
+    <text>days</text>
+  </lang>
+  <lang slug="End day">  
+    <text>End day</text>
+  </lang>
+  <lang slug="Preview">  
+    <text>Preview</text>
+  </lang>
+  <lang slug="Save list">  
+    <text>Save list</text>
+  </lang>
+  <lang slug="Select Pages/Groups/Profiles/Friends"> 
+    <text>Select Pages/Groups/Profiles/Friends</text>
+  </lang>
+  <lang slug="All categories"> 
+    <text>All categories</text>
+  </lang>
+  <lang slug="Add new category"> 
+    <text>Add new category</text>
+  </lang>
+  <lang slug="Update category">  
+    <text>Update category</text>
+  </lang>
+  <lang slug="Remove category selected"> 
+    <text>Remove category selected</text>
+  </lang>
+  <lang slug="All Profiles"> 
+    <text>All Profiles</text>
+  </lang>
+  <lang slug="All Groups"> 
+    <text>All Groups</text>
+  </lang>
+  <lang slug="All Pages">  
+    <text>All Pages</text>
+  </lang>
+  <lang slug="All Friends">  
+    <text>All Friends</text>
+  </lang>
+  <lang slug="______"> 
+    <text>______</text>
+  </lang>
+  <lang slug="Select category">  
+    <text>Select category</text>
+  </lang>
+  <lang slug="Update"> 
+    <text>Update</text>
+  </lang>
+  <lang slug="TEXT"> 
+    <text>TEXT</text>
+  </lang>
+  <lang slug="IMAGE">  
+    <text>IMAGE</text>
+  </lang>
+  <lang slug="VIDEO">  
+    <text>VIDEO</text>
+  </lang>
+  <lang slug="Picture">  
+    <text>Picture</text>
+  </lang>
+  <lang slug="Title">  
+    <text>Title</text>
+  </lang>
+  <lang slug="Caption">  
+    <text>Caption</text>
+  </lang>
+  <lang slug="Description">  
+    <text>Description</text>
+  </lang>
+  <lang slug="Video URL">  
+    <text>Video URL</text>
+  </lang>
+  <lang slug="Post now"> 
+    <text>Post now</text>
+  </lang>
+  <lang slug="Anonymous">  
+    <text>Anonymous</text>
+  </lang>
+  <lang slug="Just now"> 
+    <text>Just now</text>
+  </lang>
+  <lang slug="Select Pages/Groups/Profiles"> 
+    <text>Select Pages/Groups/Profiles</text>
+  </lang>
+  <lang slug="Total process">  
+    <text>Total process</text>
+  </lang>
+  <lang slug="Profile">  
+    <text>Profile</text>
+  </lang>
+  <lang slug="Report by day">  
+    <text>Report by day</text>
+  </lang>
+  <lang slug="Post"> 
+    <text>Post</text>
+  </lang>
+  <lang slug="Success">  
+    <text>Success</text>
+  </lang>
+  <lang slug="Direct message"> 
+    <text>Direct message</text>
+  </lang>
+  <lang slug="Join groups">  
+    <text>Join groups</text>
+  </lang>
+  <lang slug="Add friends">  
+    <text>Add friends</text>
+  </lang>
+  <lang slug="Comment">  
+    <text>Comment</text>
+  </lang>
+  <lang slug="Like"> 
+    <text>Like</text>
+  </lang>
+  <lang slug="Groups"> 
+    <text>Groups</text>
+  </lang>
+  <lang slug="Friend"> 
+    <text>Friend</text>
+  </lang>
+  <lang slug="Please input all fields">  
+    <text>Please input all fields</text>
+  </lang>
+  <lang slug="Passwords must be at least 6 characters long"> 
+    <text>Passwords must be at least 6 characters long</text>
+  </lang>
+  <lang slug="Update successfully">  
+    <text>Update successfully</text>
+  </lang>
+  <lang slug="Please enter access token">  
+    <text>Please enter access token</text>
+  </lang>
+  <lang slug="This facebook account already exists"> 
+    <text>This facebook account already exists</text>
+  </lang>
+  <lang slug="Oh sorry! You have exceeded the number of accounts allowed, You are only allowed to update your account">  
+    <text>Oh sorry! You have exceeded the number of accounts allowed, You are only allowed to update your account</text>
+  </lang>
+  <lang slug="Update failure"> 
+    <text>Update failure</text>
+  </lang>
+  <lang slug="Action"> 
+    <text>Action</text>
+  </lang>
+  <lang slug="Active"> 
+    <text>Active</text>
+  </lang>
+  <lang slug="Deactive"> 
+    <text>Deactive</text>
+  </lang>
+  <lang slug="Delete"> 
+    <text>Delete</text>
+  </lang>
+  <lang slug="User"> 
+    <text>User</text>
+  </lang>
+  <lang slug="Facebook ID">  
+    <text>Facebook ID</text>
+  </lang>
+  <lang slug="Fullname"> 
+    <text>Fullname</text>
+  </lang>
+  <lang slug="Username"> 
+    <text>Username</text>
+  </lang>
+  <lang slug="Token">  
+    <text>Token</text>
+  </lang>
+  <lang slug="Update Groups">  
+    <text>Update Groups</text>
+  </lang>
+  <lang slug="Update Pages"> 
+    <text>Update Pages</text>
+  </lang>
+  <lang slug="Update Friends"> 
+    <text>Update Friends</text>
+  </lang>
+  <lang slug="Status"> 
+    <text>Status</text>
+  </lang>
+  <lang slug="Option"> 
+    <text>Option</text>
+  </lang>
+  <lang slug="Are you sure you want to delete this item?"> 
+    <text>Are you sure you want to delete this item?</text>
+  </lang>
+  <lang slug="Update Facebook account">  
+    <text>Update Facebook account</text>
+  </lang>
+  <lang slug="STEP 1: GET ACCESS TOKEN"> 
+    <text>STEP 1: GET ACCESS TOKEN</text>
+  </lang>
+  <lang slug="Facebook username">  
+    <text>Facebook username</text>
+  </lang>
+  <lang slug="Facebook password">  
+    <text>Facebook password</text>
+  </lang>
+  <lang slug="Facebook App"> 
+    <text>Facebook App</text>
+  </lang>
+  <lang slug="Get Access Token"> 
+    <text>Get Access Token</text>
+  </lang>
+  <lang slug="STEP 2: ADD ACCESS TOKEN"> 
+    <text>STEP 2: ADD ACCESS TOKEN</text>
+  </lang>
+  <lang slug="Access Token"> 
+    <text>Access Token</text>
+  </lang>
+  <lang slug="Submit"> 
+    <text>Submit</text>
+  </lang>
+  <lang slug="Back"> 
+    <text>Back</text>
+  </lang>
+  <lang slug="THE ULTIMATE WAY TO HELP YOUR MARKETING EFFECTIVENESS ON FACEBOOK TODAY ESPECIALLY WITH DIRECT MESSAGE TO ALL YOUR FRIENDS"> 
+    <text>THE ULTIMATE WAY TO HELP YOUR MARKETING EFFECTIVENESS ON FACEBOOK TODAY ESPECIALLY WITH DIRECT MESSAGE TO ALL YOUR FRIENDS</text>
+  </lang>
+  <lang slug="Using social media is a fun and sure way to get new friends, customers and fans. Getting your Facebook profile out there for everyone to see is a hard and tedious task and time is very precious for all of us and promoting yourself on Facebook is a time-consuming everyday activity. Let VTPoster help you automate your daily activity and get you the crowd you deserve and desire">  
+    <text>Using social media is a fun and sure way to get new friends, customers and fans. Getting your Facebook profile out there for everyone to see is a hard and tedious task and time is very precious for all of us and promoting yourself on Facebook is a time-consuming everyday activity. Let VTPoster help you automate your daily activity and get you the crowd you deserve and desire</text>
+  </lang>
+  <lang slug="This is what VTPoster can do for you"> 
+    <text>This is what VTPoster can do for you</text>
+  </lang>
+  <lang slug="Post/Schedule">  
+    <text>Post/Schedule</text>
+  </lang>
+  <lang slug="Post link, image, video and text to multi profiles, multi page, multi groups and special is post link to closed/secret groups">  
+    <text>Post link, image, video and text to multi profiles, multi page, multi groups and special is post link to closed/secret groups</text>
+  </lang>
+  <lang slug="Post link and text to wall of all your friends just only a few some click mouse">  
+    <text>Post link and text to wall of all your friends just only a few some click mouse</text>
+  </lang>
+  <lang slug="Send Direct Message">  
+    <text>Send Direct Message</text>
+  </lang>
+  <lang slug="Send direct message to all your friends with text and link and vivid emojis">  
+    <text>Send direct message to all your friends with text and link and vivid emojis</text>
+  </lang>
+  <lang slug="Automatically register join groups by your target. just need a few click your can join 1000+ groups">  
+    <text>Automatically register join groups by your target. just need a few click your can join 1000+ groups</text>
+  </lang>
+  <lang slug="Auto Add Friend">  
+    <text>Auto Add Friend</text>
+  </lang>
+  <lang slug="Help you find and add friends by Facebook suggestions, Faceook search or Friends list of anyone">  
+    <text>Help you find and add friends by Facebook suggestions, Faceook search or Friends list of anyone</text>
+  </lang>
+  <lang slug="Comment Lasted Post">  
+    <text>Comment Lasted Post</text>
+  </lang>
+  <lang slug="Automatically find lasted post on profiles, pages, profiles or your friend and automatically comment with type text and link to that posts"> 
+    <text>Automatically find lasted post on profiles, pages, profiles or your friend and automatically comment with type text and link to that posts</text>
+  </lang>
+  <lang slug="Like Lasted Post"> 
+    <text>Like Lasted Post</text>
+  </lang>
+  <lang slug="Automatically find lasted post on profiles, pages, profiles or your friend and automatically like with type text and link to that posts">  
+    <text>Automatically find lasted post on profiles, pages, profiles or your friend and automatically like with type text and link to that posts</text>
+  </lang>
+  <lang slug="Help you find all info of pages, groups, users, events and place and then you can export them on file xls, csv"> 
+    <text>Help you find all info of pages, groups, users, events and place and then you can export them on file xls, csv</text>
+  </lang>
+  <lang slug="Fanpage Analytics">  
+    <text>Fanpage Analytics</text>
+  </lang>
+  <lang slug="All the data on your fanpage will appear only on a single page. For example: Reach and Impressions,  Interactive Posts, Likes &amp; Unlikes, ..."> 
+    <text>All the data on your fanpage will appear only on a single page. For example: Reach and Impressions,  Interactive Posts, Likes &amp; Unlikes, ...</text>
+  </lang>
+  <lang slug="Save posts"> 
+    <text>Save posts</text>
+  </lang>
+  <lang slug="You will not have to enter the content for posting next time with save post feature">  
+    <text>You will not have to enter the content for posting next time with save post feature</text>
+  </lang>
+  <lang slug="Report Schedule">  
+    <text>Report Schedule</text>
+  </lang>
+  <lang slug="Report all info for posted. For example: post success, failure, processing, repeat, ...">  
+    <text>Report all info for posted. For example: post success, failure, processing, repeat, ...</text>
+  </lang>
+  <lang slug="Preview Post"> 
+    <text>Preview Post</text>
+  </lang>
+  <lang slug="Help you preview your post before publishing them">  
+    <text>Help you preview your post before publishing them</text>
+  </lang>
+  <lang slug="And many more another feature..."> 
+    <text>And many more another feature...</text>
+  </lang>
+  <lang slug="Select your timezone to start your campaign">  
+    <text>Select your timezone to start your campaign</text>
+  </lang>
+  <lang slug="Save"> 
+    <text>Save</text>
+  </lang>
+  <lang slug="Invite now"> 
+    <text>Invite now</text>
+  </lang>
+  <lang slug="Select Friends"> 
+    <text>Select Friends</text>
+  </lang>
+  <lang slug="Auto invite to pages"> 
+    <text>Auto invite to pages</text>
+  </lang>
+  <lang slug="Page ID is requied"> 
+    <text>Page ID is requied</text>
+  </lang>
+  <lang slug="Page ID">  
+    <text>Page ID</text>
+  </lang>
+  <lang slug="Select at least a group">  
+    <text>Select at least a group</text>
+  </lang>
+  <lang slug="Join now"> 
+    <text>Join now</text>
+  </lang>
+  <lang slug="Select Groups">  
+    <text>Select Groups</text>
+  </lang>
+  <lang slug="Search Groups">  
+    <text>Search Groups</text>
+  </lang>
+  <lang slug="Import Groups ID"> 
+    <text>Import Groups ID</text>
+  </lang>
+  <lang slug="Import List Groups ID">  
+    <text>Import List Groups ID</text>
+  </lang>
+  <lang slug="Like now"> 
+    <text>Like now</text>
+  </lang>
+  <lang slug="Name is required"> 
+    <text>Name is required</text>
+  </lang>
+  <lang slug="Price is required">  
+    <text>Price is required</text>
+  </lang>
+  <lang slug="Day is required">  
+    <text>Day is required</text>
+  </lang>
+  <lang slug="-successfully">  
+    <text>-successfully</text>
+  </lang>
+  <lang slug="Price">  
+    <text>Price</text>
+  </lang>
+  <lang slug="Day">  
+    <text>Day</text>
+  </lang>
+  <lang slug="Default">  
+    <text>Default</text>
+  </lang>
+  <lang slug="Update package"> 
+    <text>Update package</text>
+  </lang>
+  <lang slug="Package name"> 
+    <text>Package name</text>
+  </lang>
+  <lang slug="Package price">  
+    <text>Package price</text>
+  </lang>
+  <lang slug="Package day">  
+    <text>Package day</text>
+  </lang>
+  <lang slug="Package order">  
+    <text>Package order</text>
+  </lang>
+  <lang slug="Package default">  
+    <text>Package default</text>
+  </lang>
+  <lang slug="Yes">  
+    <text>Yes</text>
+  </lang>
+  <lang slug="Free"> 
+    <text>Free</text>
+  </lang>
+  <lang slug="Trial">  
+    <text>Trial</text>
+  </lang>
+  <lang slug="Maximum Facebook account on user"> 
+    <text>Maximum Facebook account on user</text>
+  </lang>
+  <lang slug="Maximum groups"> 
+    <text>Maximum groups</text>
+  </lang>
+  <lang slug="Maximum pages">  
+    <text>Maximum pages</text>
+  </lang>
+  <lang slug="Maximum friends">  
+    <text>Maximum friends</text>
+  </lang>
+  <lang slug="List modules"> 
+    <text>List modules</text>
+  </lang>
+  <lang slug="Invoice">  
+    <text>Invoice</text>
+  </lang>
+  <lang slug="First name"> 
+    <text>First name</text>
+  </lang>
+  <lang slug="Last name">  
+    <text>Last name</text>
+  </lang>
+  <lang slug="Receiver email"> 
+    <text>Receiver email</text>
+  </lang>
+  <lang slug="Payer email">  
+    <text>Payer email</text>
+  </lang>
+  <lang slug="Package">  
+    <text>Package</text>
+  </lang>
+  <lang slug="Currency"> 
+    <text>Currency</text>
+  </lang>
+  <lang slug="Street"> 
+    <text>Street</text>
+  </lang>
+  <lang slug="City"> 
+    <text>City</text>
+  </lang>
+  <lang slug="Country">  
+    <text>Country</text>
+  </lang>
+  <lang slug="Payment date"> 
+    <text>Payment date</text>
+  </lang>
+  <lang slug="Payment status"> 
+    <text>Payment status</text>
+  </lang>
+  <lang slug="Paypal email is required"> 
+    <text>Paypal email is required</text>
+  </lang>
+  <lang slug="Currency is required"> 
+    <text>Currency is required</text>
+  </lang>
+  <lang slug="Paypal email"> 
+    <text>Paypal email</text>
+  </lang>
+  <lang slug="PICK THE BEST PLAN FOR YOU!"> 
+    <text>PICK THE BEST PLAN FOR YOU!</text>
+  </lang>
+  <lang slug="Pages">  
+    <text>Pages</text>
+  </lang>
+  <lang slug="Friends">  
+    <text>Friends</text>
+  </lang>
+  <lang slug="UPGRADE NOW">  
+    <text>UPGRADE NOW</text>
+  </lang>
+  <lang slug="Link is required"> 
+    <text>Link is required</text>
+  </lang>
+  <lang slug="Image is required">  
+    <text>Image is required</text>
+  </lang>
+  <lang slug="Video is required">  
+    <text>Video is required</text>
+  </lang>
+  <lang slug="Find text is requied"> 
+    <text>Find text is requied</text>
+  </lang>
+  <lang slug="This find text already exists">  
+    <text>This find text already exists</text>
+  </lang>
+  <lang slug="Please select a type post">  
+    <text>Please select a type post</text>
+  </lang>
+  <lang slug="Select at least a Pages/Groups/Profiles">  
+    <text>Select at least a Pages/Groups/Profiles</text>
+  </lang>
+  <lang slug="Repost with types">  
+    <text>Repost with types</text>
+  </lang>
+  <lang slug="Time start"> 
+    <text>Time start</text>
+  </lang>
+  <lang slug="Select Pages Or Profile">  
+    <text>Select Pages Or Profile</text>
+  </lang>
+  <lang slug="Find text">  
+    <text>Find text</text>
+  </lang>
+  <lang slug="Replace with"> 
+    <text>Replace with</text>
+  </lang>
+  <lang slug="List Replace"> 
+    <text>List Replace</text>
+  </lang>
+  <lang slug="Find"> 
+    <text>Find</text>
+  </lang>
+  <lang slug="Replace">  
+    <text>Replace</text>
+  </lang>
+  <lang slug="Save management">  
+    <text>Save management</text>
+  </lang>
+  <lang slug="Save successfully">  
+    <text>Save successfully</text>
+  </lang>
+  <lang slug="Schedules">  
+    <text>Schedules</text>
+  </lang>
+  <lang slug="Repost"> 
+    <text>Repost</text>
+  </lang>
+  <lang slug="Created">  
+    <text>Created</text>
+  </lang>
+  <lang slug="Attending">  
+    <text>Attending</text>
+  </lang>
+  <lang slug="No Reply"> 
+    <text>No Reply</text>
+  </lang>
+  <lang slug="Maybe">  
+    <text>Maybe</text>
+  </lang>
+  <lang slug="Interested"> 
+    <text>Interested</text>
+  </lang>
+  <lang slug="Declined"> 
+    <text>Declined</text>
+  </lang>
+  <lang slug="Palce">  
+    <text>Palce</text>
+  </lang>
+  <lang slug="Start time"> 
+    <text>Start time</text>
+  </lang>
+  <lang slug="End time"> 
+    <text>End time</text>
+  </lang>
+  <lang slug="Map">  
+    <text>Map</text>
+  </lang>
+  <lang slug="CLOSE">  
+    <text>CLOSE</text>
+  </lang>
+  <lang slug="Email">  
+    <text>Email</text>
+  </lang>
+  <lang slug="Address">  
+    <text>Address</text>
+  </lang>
+  <lang slug="Phone">  
+    <text>Phone</text>
+  </lang>
+  <lang slug="Website">  
+    <text>Website</text>
+  </lang>
+  <lang slug="Likes">  
+    <text>Likes</text>
+  </lang>
+  <lang slug="State">  
+    <text>State</text>
+  </lang>
+  <lang slug="Zip">  
+    <text>Zip</text>
+  </lang>
+  <lang slug="Avatar"> 
+    <text>Avatar</text>
+  </lang>
+  <lang slug="Page"> 
+    <text>Page</text>
+  </lang>
+  <lang slug="Group">  
+    <text>Group</text>
+  </lang>
+  <lang slug="Place">  
+    <text>Place</text>
+  </lang>
+  <lang slug="Website title is required">  
+    <text>Website title is required</text>
+  </lang>
+  <lang slug="Public key is required"> 
+    <text>Public key is required</text>
+  </lang>
+  <lang slug="Secret key is required"> 
+    <text>Secret key is required</text>
+  </lang>
+  <lang slug="LICENSE">  
+    <text>LICENSE</text>
+  </lang>
+  <lang slug="Purchase code">  
+    <text>Purchase code</text>
+  </lang>
+  <lang slug="GENARAL">  
+    <text>GENARAL</text>
+  </lang>
+  <lang slug="POST &amp; SCHEDULE">  
+    <text>POST &amp; SCHEDULE</text>
+  </lang>
+  <lang slug="LOGIN SOCIAL"> 
+    <text>LOGIN SOCIAL</text>
+  </lang>
+  <lang slug="Website name"> 
+    <text>Website name</text>
+  </lang>
+  <lang slug="Website description">  
+    <text>Website description</text>
+  </lang>
+  <lang slug="Website keywords"> 
+    <text>Website keywords</text>
+  </lang>
+  <lang slug="Website logo"> 
+    <text>Website logo</text>
+  </lang>
+  <lang slug="Theme color">  
+    <text>Theme color</text>
+  </lang>
+  <lang slug="Timezone server">  
+    <text>Timezone server</text>
+  </lang>
+  <lang slug="Default language"> 
+    <text>Default language</text>
+  </lang>
+  <lang slug="Add new language"> 
+    <text>Add new language</text>
+  </lang>
+  <lang slug="view-demo">  
+    <text>view-demo</text>
+  </lang>
+  <lang slug="Register user">  
+    <text>Register user</text>
+  </lang>
+  <lang slug="Auto active user"> 
+    <text>Auto active user</text>
+  </lang>
+  <lang slug="Default delay every post on post now"> 
+    <text>Default delay every post on post now</text>
+  </lang>
+  <lang slug="Minimum delay every post on post now"> 
+    <text>Minimum delay every post on post now</text>
+  </lang>
+  <lang slug="Default delay every post on schedule"> 
+    <text>Default delay every post on schedule</text>
+  </lang>
+  <lang slug="Minimum delay every post on schedule"> 
+    <text>Minimum delay every post on schedule</text>
+  </lang>
+  <lang slug="Maximum size of file uploads"> 
+    <text>Maximum size of file uploads</text>
+  </lang>
+  <lang slug="MB"> 
+    <text>MB</text>
+  </lang>
+  <lang slug="Facebook Secret">  
+    <text>Facebook Secret</text>
+  </lang>
+  <lang slug="Googe Client ID">  
+    <text>Googe Client ID</text>
+  </lang>
+  <lang slug="Google Client Secret"> 
+    <text>Google Client Secret</text>
+  </lang>
+  <lang slug="Twitter Consumer Secret">  
+    <text>Twitter Consumer Secret</text>
+  </lang>
+  <lang slug="Send now"> 
+    <text>Send now</text>
+  </lang>
+  <lang slug="Fullname is required"> 
+    <text>Fullname is required</text>
+  </lang>
+  <lang slug="Email is required">  
+    <text>Email is required</text>
+  </lang>
+  <lang slug="Invalid email format"> 
+    <text>Invalid email format</text>
+  </lang>
+  <lang slug="Expiration date is required">  
+    <text>Expiration date is required</text>
+  </lang>
+  <lang slug="Timezone is required"> 
+    <text>Timezone is required</text>
+  </lang>
+  <lang slug="Password is required"> 
+    <text>Password is required</text>
+  </lang>
+  <lang slug="Passwords must be at least 6 characters">  
+    <text>Passwords must be at least 6 characters</text>
+  </lang>
+  <lang slug="Password incorrect"> 
+    <text>Password incorrect</text>
+  </lang>
+  <lang slug="Login successfully"> 
+    <text>Login successfully</text>
+  </lang>
+  <lang slug="Your account has not been activated">  
+    <text>Your account has not been activated</text>
+  </lang>
+  <lang slug="Username or password incorrect"> 
+    <text>Username or password incorrect</text>
+  </lang>
+  <lang slug="Register successfully">  
+    <text>Register successfully</text>
+  </lang>
+  <lang slug="Email already exists"> 
+    <text>Email already exists</text>
+  </lang>
+  <lang slug="Reset password key not exists">  
+    <text>Reset password key not exists</text>
+  </lang>
+  <lang slug="Please check your email to reset password">  
+    <text>Please check your email to reset password</text>
+  </lang>
+  <lang slug="An error occurred. Please try again later">  
+    <text>An error occurred. Please try again later</text>
+  </lang>
+  <lang slug="This email address does not exist">  
+    <text>This email address does not exist</text>
+  </lang>
+  <lang slug="Admin">  
+    <text>Admin</text>
+  </lang>
+  <lang slug="Maximum facebook accounts">  
+    <text>Maximum facebook accounts</text>
+  </lang>
+  <lang slug="Expiration date">  
+    <text>Expiration date</text>
+  </lang>
+  <lang slug="Timezone"> 
+    <text>Timezone</text>
+  </lang>
+  <lang slug="Changed">  
+    <text>Changed</text>
+  </lang>
+  <lang slug="Info and Package"> 
+    <text>Info and Package</text>
+  </lang>
+  <lang slug="Maximum liked pages">  
+    <text>Maximum liked pages</text>
+  </lang>
+  <lang slug="Time zone">  
+    <text>Time zone</text>
+  </lang>
+  <lang slug="Password"> 
+    <text>Password</text>
+  </lang>
+  <lang slug="Re-password">  
+    <text>Re-password</text>
+  </lang>
+  <lang slug="Update user">  
+    <text>Update user</text>
+  </lang>
+  <lang slug="Is Admin"> 
+    <text>Is Admin</text>
+  </lang>
+  <lang slug="--- Select package ---"> 
+    <text>--- Select package ---</text>
+  </lang>
+  <lang slug="Value must be less then 5000"> 
+    <text>Value must be less then 5000</text>
+  </lang>
+  <lang slug="Value must be less then 50"> 
+    <text>Value must be less then 50</text>
+  </lang>
+  <lang slug="Deleted">  
+    <text>Deleted</text>
+  </lang>
+  <lang slug="Select at least one item"> 
+    <text>Select at least one item</text>
+  </lang>
+  <lang slug="Select at least one Page/Group/Profile/Friend">  
+    <text>Select at least one Page/Group/Profile/Friend</text>
+  </lang>
+  <lang slug="No data available in table"> 
+    <text>No data available in table</text>
+  </lang>
+  <lang slug="Please wait..."> 
+    <text>Please wait...</text>
+  </lang>
+  <lang slug="OR LOGIN VIA"> 
+    <text>OR LOGIN VIA</text>
+  </lang>
+  <lang slug="Email Address">  
+    <text>Email Address</text>
+  </lang>
+  <lang slug="Confirm password"> 
+    <text>Confirm password</text>
+  </lang>
+  <lang slug="Please buy one of packages to use">  
+    <text>Please buy one of packages to use</text>
+  </lang>
+  <lang slug="Please check your email to reset password"> 
+    <text>Please check your email to reset password</text>
+  </lang>
+  <lang slug="This email address does not exist"> 
+    <text>This email address does not exist</text>
+  </lang>
+  <lang slug="This email address does not exist"> 
+    <text>This email address does not exist</text>
+  </lang>
+  <lang slug="An error occurred. Please try again later"> 
+    <text>An error occurred. Please try again later</text>
+  </lang>
+  <lang slug="Click into link to reset your password">  
+    <text>Click into link to reset your password</text>
+  </lang>
+  <lang slug="Forgot password"> 
+    <text>Forgot password</text>
+  </lang>
+  <lang slug="Reset password">  
+    <text>Reset password</text>
+  </lang>
+  <lang slug="Reset password key not exists"> 
+    <text>Reset password key not exists</text>
+  </lang>
+</data>
